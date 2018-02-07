@@ -1,4 +1,4 @@
-[![TCN75A](TCN75A_I2CBZ.png)](https://store.ncd.io/product/tcn75a-temperature-sensor-%C2%B10-5c-12-bit-with-3-address-lines-i2c-mini-module/)
+[![TCN75A](TCN75A_I2C.png)](https://store.ncd.io/product/tcn75a-temperature-sensor-%C2%B10-5c-12-bit-with-3-address-lines-i2c-mini-module/)
 
 # TCN75A
 
